@@ -1,0 +1,202 @@
+html { 
+    max-width: 1260px;
+    background-color:#CCEEFF ;
+    background-image: url(https://media.playstation.com/is/image/SCEA/monster-hunter-world-iceborne-guardian-armor-section-background-01-ps4-us-04sep19?$native_nt$);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+  }
+  header{
+    width: 1260px;
+  }
+body{
+    width: 1260px;
+}
+.logo{
+    display: inline-block;
+    width:172.6px;
+    height:100px;
+    margin-left:40px;
+}
+.language{
+  font-family: serif;
+    display: inline-block;
+    color:#666666;
+    font-size:44px;
+    width: 200px;
+    margin-left:850px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    line-height: 100px; 
+  }
+  .titlebar{
+    display:flex;
+    background-color:#FFFFFF;
+    width:1260px;
+    height: 100px;
+}
+.cover{
+    width: 1260px;
+    margin-bottom:0;
+}
+.navbar{
+    display:flex;
+    padding:0;
+    width:1260px;
+    height:70px;
+    background-color:#FFFFFF;
+    opacity:0.8;
+    margin-top:0;
+}
+.coverbar{
+    display:flex;
+    flex-direction:column;
+}
+.news{
+    width: 138px;
+    margin-left:95px;
+    font-size:30px;
+    font-family: serif;
+    color:#666666;
+    margin-top:18px;
+    text-align: center;
+}
+.story{
+    width: 138px;
+    margin-left:95px;
+    font-size:30px;
+    font-family: serif;
+    color:#666666;
+    margin-top:18px;
+    text-align: center;
+}
+.ecosystem{
+    width: 138px;
+    margin-left:95px;
+    font-size:30px;
+    font-family: serif;
+    color:#666666;
+    margin-top:18px;
+    text-align: center;
+}
+.monster{
+    width: 138px;
+    margin-left:95px;
+    font-size:30px;
+    font-family: serif;
+    color:#666666;
+    margin-top:18px;
+    text-align: center;
+}
+.hunting{
+    width: 138px;
+    margin-left:95px;
+    font-size:30px;
+    font-family: serif;
+    color:#666666;
+    margin-top:18px;
+    text-align: center;
+}
+.mainmonster{
+    width: 1260px;
+    margin-top: 50px;
+    padding-left: 31.5px;
+    padding-right: 31.5px;
+}
+.monstericon{
+    width: 378px;
+    margin-right: 31.5px;
+    margin-bottom: 0;
+}
+.back{
+    width: 250px;
+    height:50px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin-left: 950px;
+    background-image:url(../img/introbg2.png);
+}
+.backword{
+    margin: 0px;
+    font-size:30px;
+    font-family:"DFKai-SB";
+    line-height: 50px;
+    color: whitesmoke;
+   padding-left: 100px;
+}
+.monsterintro{
+    display: inline-block;
+    width: 378px;
+    height:50px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin-right: 31.5px;
+    background-image:url(../img/introbg2.png);
+}
+.monsterword{
+    margin: 0px;
+    font-size:40px;
+    font-family:"DFKai-SB";
+    line-height: 50px;
+    color: whitesmoke;
+    text-align: center;
+}
+footer{
+    width: 1260px;
+}
+.container{
+    width:1260px;
+}
+.footer1{
+    text-align: center;
+    background-color: #000000;
+    padding:10px
+}
+.footer2{
+    width:1260px;
+    background-color: #000000;
+    height:140px;
+    padding:0;
+}
+.smallps4{
+    width:50px;
+}
+.smallps4logo{
+    width:30px;
+}
+.line{
+    height:2px;
+    width:1260px;
+    background:#FFFFFF;
+}
+.fbicon{
+    display: inline-block;
+    width:50px;
+    margin-top:50px;
+    margin-left:150px;
+    flex-grow: unset;
+}
+.yticon{
+    display: inline-block;
+    width:50px;
+    margin-left:50px;
+}
+.capcomlogo{
+    display: inline-block;
+    width: 300px;
+    margin-left:610px;
+}
+.capaomword{
+    display: inline-block;
+    margin-left:900px;
+    font-size:13px;
+    font-family:Microsoft JhengHei;
+    color: #FFFFFF;
+}
+.footerword{
+    display: inline-block;
+    font-family:Microsoft JhengHei;
+    color: #FFFFFF;
+}
